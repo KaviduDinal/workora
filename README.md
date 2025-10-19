@@ -1,5 +1,5 @@
 # workora
-Officially University students parttime and internship find platform... 
+Officially University students parttime and internship find platform.
 
 
 
